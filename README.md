@@ -1,6 +1,6 @@
 # OpenStudyLM
 
-A Smart Multi-Source Study Assistant.
+A Smart Multi-Source Study Assistant (CustomNotebookLM).
 
 ## Setup
 
